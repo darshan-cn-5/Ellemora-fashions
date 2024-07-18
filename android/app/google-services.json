@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292124129307",
+    "project_id": "ellemora-fashions",
+    "storage_bucket": "ellemora-fashions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292124129307:android:067ec1e2d73ac6dcf9a0be",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCETM2hPaswLpbWMum9iqxUQu-KZBIk8NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
